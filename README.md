@@ -1,3 +1,3 @@
 
-# Welcome to our File Upload project featuring Confetti Animation! 🎉
+# Welcome to our File Upload project with Confetti Animation! 🎉
 
